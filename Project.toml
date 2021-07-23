@@ -3,6 +3,9 @@ uuid = "ac247420-6a2e-4a24-a486-c6dcb0a50216"
 authors = ["Sebastian Pfitzner <pfitzseb@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
 [compat]
 julia = "1"
 
